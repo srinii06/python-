@@ -1,0 +1,9 @@
+s="nandasai"
+print(s[:])
+print(s[2:])
+print(s[:5])
+print(s[2:6])
+print(s[-4:-2])
+print(s[::2])
+print(s[::-1])
+print(s[1:6:3])

@@ -1,0 +1,8 @@
+T=(1,2,3,4,5,6,7)
+print(T[:])
+print(T[2:])
+print(T[:5])
+print(T[2:6])
+print(T[-4:-2])
+print(T[::2])
+print(T[1:3:7])
